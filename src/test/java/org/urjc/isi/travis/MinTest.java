@@ -20,7 +20,7 @@ public class MinTest
       list = null;  // redundant in this example!
    }
 
-//   @Test
+//    @Test
 //   public void testForNullList()
 //   {
 //      list = null;
